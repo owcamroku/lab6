@@ -1,7 +1,7 @@
 // wersy.hpp
 
 #ifndef wersy_hpp
-#define wersy_hp
+#define wersy_hpp
 
 void wyswietl_wersy();
 
