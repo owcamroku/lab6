@@ -8,5 +8,6 @@ int main()
 {
     int a,b;
     pomnoz(a,b);
+    wyswietl_wersy()
     return 0;
 }
