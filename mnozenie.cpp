@@ -1,5 +1,9 @@
 #include "mnozenie.hpp"
 int (int a, int b){
-    return a+b;
+<<<<<<< HEAD
+    return a*b;
+=======
+    return a*b;
+>>>>>>> origin/fun2
 }
 
